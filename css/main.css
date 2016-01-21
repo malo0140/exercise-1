@@ -20,7 +20,6 @@ html {
 .icons {
 	vertical-align: center;
 	text-align: center;
-	margin: 2em;
 
 	cursor: pointer;
 }
@@ -30,6 +29,8 @@ i{
 	color: #F26522;
 	width: 100%;
 	height: 100%;
+	margin: 0;
+	padding: 0;
 }
 
 .zoom {
@@ -54,4 +55,11 @@ h1 {
 	color: #A4EAD4;
 	text-align: left;
 	margin-left: 1em;
+}
+
+.bar {
+	font-size: 4px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
 }
