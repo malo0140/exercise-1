@@ -41,3 +41,17 @@ i{
 	-webkit-transform: scale(1.05);
 	transform: scale(1.05);
 }
+
+.bg {
+	background-color: #A4EAD4;
+}
+
+.header {
+	background-color: #F26522;
+}
+
+h1 {
+	color: #A4EAD4;
+	text-align: left;
+	margin-left: 1em;
+}
